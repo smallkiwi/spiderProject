@@ -1,0 +1,90 @@
+1523417656577	geckodriver	INFO	Listening on 127.0.0.1:55621
+1523417657191	geckodriver::marionette	INFO	Starting browser D:\Firefox\firefox.exe with args ["-marionette"]
+1523417659640	Marionette	INFO	Enabled via --marionette
+1523417666898	Marionette	INFO	Listening on port 55629
+1523417668162	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523417669940	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 125"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:125 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:141 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:51 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:30 < uninit()@resource://activity-stream/lib/Store.jsm:153 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:274 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4419 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2279 < GeckoDriver.prototype.quit()@driver.js:3270 < despatch()@server.js:557 < execute()@server.js:531 < onPacket/<()@server.js:506 < onPacket()@server.js:505 < _onJSONObjectReady/<()@transport.js:500
+1523417670704	geckodriver	INFO	Listening on 127.0.0.1:55688
+1523417671277	geckodriver::marionette	INFO	Starting browser D:\Firefox\firefox.exe with args ["-marionette"]
+1523417672330	Marionette	INFO	Enabled via --marionette
+1523417675628	Marionette	INFO	Listening on port 55695
+1523417676338	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523417677768	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 125"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:125 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:141 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:51 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:30 < uninit()@resource://activity-stream/lib/Store.jsm:153 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:274 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4419 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2279 < GeckoDriver.prototype.quit()@driver.js:3270 < despatch()@server.js:557 < execute()@server.js:531 < onPacket/<()@server.js:506 < onPacket()@server.js:505 < _onJSONObjectReady/<()@transport.js:500
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1523417678561	geckodriver	INFO	Listening on 127.0.0.1:55735
+1523417679132	geckodriver::marionette	INFO	Starting browser D:\Firefox\firefox.exe with args ["-marionette"]
+1523417680162	Marionette	INFO	Enabled via --marionette
+1523417683656	Marionette	INFO	Listening on port 55743
+1523417684264	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 125"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:125 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:141 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:51 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:30 < uninit()@resource://activity-stream/lib/Store.jsm:153 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:274 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4419 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2279
+Promise rejected after context unloaded: Message manager disconnected
+1523417684286	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 11320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1523417736416	geckodriver	INFO	Listening on 127.0.0.1:55916
+1523417737031	geckodriver::marionette	INFO	Starting browser D:\Firefox\firefox.exe with args ["-marionette"]
+1523417738500	Marionette	INFO	Enabled via --marionette
+1523417742652	Marionette	INFO	Listening on port 55925
+1523417743416	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1523417748952	geckodriver	INFO	Listening on 127.0.0.1:55987
+1523417749542	geckodriver::marionette	INFO	Starting browser D:\Firefox\firefox.exe with args ["-marionette"]
+1523417750594	Marionette	INFO	Enabled via --marionette
+1523417754772	Marionette	INFO	Listening on port 55994
+1523417754870	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1523417764513	geckodriver	INFO	Listening on 127.0.0.1:56073
+1523417765077	geckodriver::marionette	INFO	Starting browser D:\Firefox\firefox.exe with args ["-marionette"]
+1523417766550	Marionette	INFO	Enabled via --marionette
+1523417770642	Marionette	INFO	Listening on port 56081
+1523417772002	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523417777181	geckodriver	INFO	Listening on 127.0.0.1:56141
+1523417777747	geckodriver::marionette	INFO	Starting browser D:\Firefox\firefox.exe with args ["-marionette"]
+1523417923500	geckodriver	INFO	Listening on 127.0.0.1:56706
+1523417924068	geckodriver::marionette	INFO	Starting browser D:\Firefox\firefox.exe with args ["-marionette"]
+1523417925574	Marionette	INFO	Enabled via --marionette
+1523417929466	Marionette	INFO	Listening on port 56719
+1523417930448	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1523417936010	geckodriver	INFO	Listening on 127.0.0.1:56781
+1523417936575	geckodriver::marionette	INFO	Starting browser D:\Firefox\firefox.exe with args ["-marionette"]
+1523417937646	Marionette	INFO	Enabled via --marionette
+1523418532265	geckodriver	INFO	Listening on 127.0.0.1:58207
+1523418532872	geckodriver::marionette	INFO	Starting browser D:\Firefox\firefox.exe with args ["-marionette"]
+1523418535048	Marionette	INFO	Enabled via --marionette
+1523418539556	Marionette	INFO	Listening on port 58217
+1523418539826	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with[GFX1-]: Receive IPC close with reaso[n GFX1-]: Receive IPreason=AbnorC=m AacblShutdownln
+ose with reason=AbnormaolrSmhaultSdhouwnt
+down
+1523418545812	geckodriver	INFO	Listening on 127.0.0.1:58297
+1523418546380	geckodriver::marionette	INFO	Starting browser D:\Firefox\firefox.exe with args ["-marionette"]
+1523418728338	geckodriver	INFO	Listening on 127.0.0.1:58692
+1523418729002	geckodriver::marionette	INFO	Starting browser D:\Firefox\firefox.exe with args ["-marionette"]
+1523418730384	Marionette	INFO	Enabled via --marionette
+1523418734746	Marionette	INFO	Listening on port 58704
+1523418735650	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 13004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523418852985	geckodriver	INFO	Listening on 127.0.0.1:59001
+1523418853632	geckodriver::marionette	INFO	Starting browser D:\Firefox\firefox.exe with args ["-marionette"]
+1523418855500	Marionette	INFO	Enabled via --marionette
+1523418859520	Marionette	INFO	Listening on port 59012
+1523418860212	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6728, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
