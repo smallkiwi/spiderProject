@@ -1,0 +1,18 @@
+create database `dianping` charset=utf8;
+
+use dianping;
+
+create table `shopinfo` (
+`id` int(11) not null auto_increment,
+`shopname` varchar(200),
+`shopurl` varchar(300),
+`shoplevel` varchar(45),
+`commentnums` varchar(45),
+`avgcosts` varchar(45),
+`taste_score` varchar(45),
+`envis_score` varchar(45),
+`service_score` varchar(45),
+`foodtype` varchar(45),
+`locs` varchar(100),
+primary key (`id`)
+)ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
